@@ -1034,6 +1034,9 @@ nav {
   .copyright p {
     padding-right: 0;
   }
+  .join-inner h2 {
+    font-size: 25px;
+  }
 }
 
 /*// Small devices (landscape phones, 576px and up) */
