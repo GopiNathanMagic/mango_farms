@@ -1031,6 +1031,9 @@ nav {
     flex-direction: column;
     gap: 100px;
   }
+  .copyright p {
+    padding-right: 0;
+  }
 }
 
 /*// Small devices (landscape phones, 576px and up) */
@@ -1152,6 +1155,10 @@ nav {
     align-items: center;
     justify-content: center;
   } */
+
+  .copyright p {
+    padding-right: 0;
+  }
 }
 
 /*// large devices  */
@@ -1174,6 +1181,9 @@ nav {
   }
   .header-menu-outer {
     margin: 0 auto;
+  }
+  .copyright p {
+    padding-right: 0;
   }
 }
 
