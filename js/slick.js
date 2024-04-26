@@ -16,4 +16,15 @@ $(document).ready(function () {
       },
     ],
   });
+
+  /* mobile nav */
+  $(".mobile-menu").click(function () {
+    $("#header-menu").toggleClass("show-mobile-menu");
+    $(".mobile-menu").toggle();
+  });
+
+  $(".mobile-menu-close").click(function () {
+    $("#header-menu").toggleClass("show-mobile-menu");
+    $(".mobile-menu").toggle();
+  });
 });
