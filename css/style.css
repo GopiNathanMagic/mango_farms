@@ -344,6 +344,7 @@ nav {
   border: 0;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
+  display: inline-block;
 }
 
 /* || -----about----- || */
